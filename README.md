@@ -1,0 +1,1 @@
+Hello! This is homework for the subject Continuous Integration and Development.
